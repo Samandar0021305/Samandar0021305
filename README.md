@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **frontend**
 
-- 📫 How to reach me **samandar021325@gmail.com**
+- 📫 How to reach me **TSamandardev@gmail.com**
 
 - ⚡ Fun fact **i'am funny**
 
