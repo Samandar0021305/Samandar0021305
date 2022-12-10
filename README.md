@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **iTech company**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js , TypeScript , Next js**
 
 - 👨‍💻 All of my projects are available at [https://samandarbekportifolio.netlify.app/](https://samandarbekportifolio.netlify.app/)
 
