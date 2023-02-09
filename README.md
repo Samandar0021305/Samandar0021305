@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **React js , TypeScript , Next js**
 
-- 👨‍💻 All of my projects are available at [https://samandarbekportifolio.netlify.app/](https://samandarbekportifolio.netlify.app/)
-
 - 💬 Ask me about **frontend**
 
 - 📫 How to reach me **TSamandardev@gmail.com**
