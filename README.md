@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **iTech company**
 
-- 🌱 I’m currently learning **React js , TypeScript , Next js**
+- 🌱 I’m currently learning **React js , typescript , Next js**
 
 - 💬 Ask me about **frontend**
 
-- 📫 How to reach me **TSamandardev@gmail.com**
+- 📫 How to reach me **TSamandardev89@gmail.com**
 
 - ⚡ Fun fact **i'am funny**
 
