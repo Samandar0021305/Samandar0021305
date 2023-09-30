@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **greatSoft**
 
-- 🌱 I’m currently learning **React js , typescript , Next js**
+- 🌱 I’m currently learning **Vue js , Nuxt js , React js , typescript , Next js**
 
 - 💬 Ask me about **frontend**
 
