@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Unitlab.ai**
+- 🔭 I’m currently working in **Unitlab.ai**
 
 - 🌱 I’m currently learning **Vue js , Nuxt js , React js , typescript , Next js**
 
